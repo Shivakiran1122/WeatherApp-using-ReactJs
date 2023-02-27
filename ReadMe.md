@@ -5,3 +5,4 @@
 4. We will be getting temperature, max, min, humidity, real feel, sunrise, sunset, hourly, and daily forecast.<br/>
 5.We will also display the local time at the selected location.<br/>
 6.For input, there are some quick links on top along with a text box for searching a city and also a current location-based search.<br/> 
+
